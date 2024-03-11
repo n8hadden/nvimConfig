@@ -1,0 +1,9 @@
+install vim
+install git
+install neovim config
+install zsh for terminal shell
+install powerlevel10k to make terminal shell look good
+install nerdfonts font (currently have proto mono)
+use flatpak for cool applications if desired
+sudo apt-get install ninja-build gettext libtool libtool-bin autoconf automake cmake g++ pkg-config unzip curl doxygen
+clamav and clamtk (virus protection scanners)
