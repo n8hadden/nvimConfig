@@ -1,0 +1,6 @@
+lsps -------------done
+completions -----------done
+color themes -----------done
+telescope ----------done
+treesitter ----------done
+git integration
